@@ -1,20 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2d5a,50:2d4a8a,100:f47920&height=200&section=header&text=ShaloTrack&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Always+Connected&descAlignY=58&descSize=20&descColor=f47920&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2d5a,50:2d4a8a,100:f47920&height=220&section=header&text=ShaloTrack&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Always+Connected&descAlignY=58&descSize=22&descColor=f47920&animation=fadeIn&stroke=f47920&strokeWidth=1" width="100%"/>
 
 <br/>
 
-<img src="logo.jpeg" width="220"/>
+<img src="logo.jpeg" width="180" style="border-radius: 50%;"/>
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=F47920&center=true&vCenter=true&width=600&lines=🛰+Real-Time+Vehicle+Tracking;🚀+Fleet+Management+Platform;📡+GPS+Tracking+%7C+Vehicle+Security;🇱🇰+Built+in+Sri+Lanka)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=F47920&center=true&vCenter=true&width=650&lines=🛰+Real-Time+Vehicle+Tracking;🚀+Smart+Fleet+Management+Platform;🔐+Vehicle+Security+%26+Monitoring;📡+GPS+Tracking+Infrastructure;🇱🇰+Proudly+Built+in+Sri+Lanka)](https://git.io/typing-svg)
 
 <br/>
 
-![GPS](https://img.shields.io/badge/◉%20SIGNAL-ACTIVE-f47920?style=for-the-badge&labelColor=1a2d5a)
-![Location](https://img.shields.io/badge/📍-Sri%20Lanka-f47920?style=for-the-badge&labelColor=1a2d5a)
-![Status](https://img.shields.io/badge/Always-Connected-ffffff?style=for-the-badge&labelColor=1a2d5a)
+![Signal](https://img.shields.io/badge/◉%20SIGNAL-ACTIVE-f47920?style=for-the-badge&labelColor=1a2d5a&logoColor=white)
+&nbsp;
+![Location](https://img.shields.io/badge/📍%20SRI%20LANKA-1a2d5a?style=for-the-badge&color=1a2d5a&labelColor=f47920)
+&nbsp;
+![Status](https://img.shields.io/badge/🛰%20ALWAYS-CONNECTED-white?style=for-the-badge&labelColor=1a2d5a)
+
+<br/><br/>
 
 </div>
 
@@ -24,148 +28,183 @@
 
 ShaloTrack is a Sri Lankan GPS tracking and vehicle security platform providing **real-time vehicle tracking**, **fleet management**, and **intelligent monitoring solutions** for businesses and individual vehicle owners.
 
+<br/>
+
 > 💬 *Our goal is to make vehicle tracking simpler, faster, and more reliable through modern technology and innovative software solutions.*
 
 ---
 
 ## 🚗 What We Track
 
+<br/>
+
 <div align="center">
 
-|  |  |  |
-|:---:|:---:|:---:|
-| 🚗 **Cars** | 🏍 **Motorcycles** | 🚐 **Vans** |
-| 🚚 **Trucks** | 🏢 **Commercial Fleets** | 📦 **Assets & Equipment** |
+<table>
+<tr>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/-🚗%20%20Cars-1a2d5a?style=for-the-badge&color=1a2d5a&labelColor=f47920" /><br/>
+</td>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/-🏍%20%20Motorcycles-1a2d5a?style=for-the-badge&color=1a2d5a&labelColor=f47920" /><br/>
+</td>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/-🚐%20%20Vans-1a2d5a?style=for-the-badge&color=1a2d5a&labelColor=f47920" /><br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/-🚚%20%20Trucks-f47920?style=for-the-badge&color=f47920&labelColor=1a2d5a" /><br/>
+</td>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/-🏢%20%20Fleets-f47920?style=for-the-badge&color=f47920&labelColor=1a2d5a" /><br/>
+</td>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/-📦%20%20Assets-f47920?style=for-the-badge&color=f47920&labelColor=1a2d5a" /><br/>
+</td>
+</tr>
+</table>
 
 </div>
+
+<br/>
 
 ---
 
 ## 📱 Platform Ecosystem
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-### 📲 Mobile Application
-- 🔴 Real-Time Vehicle Tracking
-- 🗺 Route Playback
-- 🔔 Smart Notifications
-- 🚘 Vehicle Management
-- 💳 Subscription Management
+<div align="center">
 
-</td>
-<td width="50%" valign="top">
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                     SHALOTRACK PLATFORM                             │
+├──────────────────┬──────────────────┬──────────────┬───────────────┤
+│  📲 Mobile App   │  🖥 Customer      │  🛡 Admin    │  🛰 GPS       │
+│                  │     Portal       │    Portal    │  Infrastructure│
+├──────────────────┼──────────────────┼──────────────┼───────────────┤
+│ ◉ Live Tracking  │ ◉ Live Dashboard │ ◉ Customers  │ ◉ TCP Server  │
+│ ◉ Route Playback │ ◉ Monitoring     │ ◉ Devices    │ ◉ GT06 Proto  │
+│ ◉ Notifications  │ ◉ Analytics      │ ◉ Dealers    │ ◉ V5 Support  │
+│ ◉ Fleet Mgmt     │                  │ ◉ Reports    │ ◉ Real-Time   │
+│ ◉ Subscriptions  │                  │ ◉ Billing    │ ◉ Commands    │
+└──────────────────┴──────────────────┴──────────────┴───────────────┘
+```
 
-### 🖥 Customer Portal
-- 📡 Live Tracking Dashboard
-- 👁 Vehicle Monitoring
-- 📊 Reports & Analytics
+</div>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡 Admin Portal
-- 👥 Customer Management
-- 📟 Device Management
-- 💼 Subscription Management
-- 🤝 Dealer Management
-- 📈 Business Reporting
-
-</td>
-<td width="50%" valign="top">
-
-### 🛰 GPS Infrastructure
-- 🔌 TCP GPS Server
-- 📶 GT06 Protocol Support
-- 📡 V5 Device Support
-- ⚡ Real-Time Data Processing
-- 🎮 Device Command Management
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
 ## 🛠 Technology Stack
 
+<br/>
+
 <div align="center">
 
-**Mobile**
-
+### 📱 Mobile
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![XML](https://img.shields.io/badge/XML-f47920?style=for-the-badge&logo=xml&logoColor=white)
 
-**Backend**
+<br/>
 
+### ⚙️ Backend
 ![.NET](https://img.shields.io/badge/.NET_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-1a2d5a?style=for-the-badge&logo=fastapi&logoColor=f47920)
-![TCP](https://img.shields.io/badge/TCP_Socket_Servers-1a2d5a?style=for-the-badge&logo=socketdotio&logoColor=f47920)
+![TCP](https://img.shields.io/badge/TCP_Socket_Servers-1a2d5a?style=for-the-badge&logoColor=f47920)
+![REST](https://img.shields.io/badge/REST_APIs-1a2d5a?style=for-the-badge&logo=fastapi&logoColor=f47920)
+![GPS](https://img.shields.io/badge/GPS_Protocol_Parsers-f47920?style=for-the-badge&labelColor=1a2d5a)
 
-**Web**
+<br/>
 
+### 🌐 Web
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Database & Cloud**
+<br/>
 
+### ☁️ Database & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Services**
+<br/>
 
+### 🔗 Services & Integrations
 ![Google Maps](https://img.shields.io/badge/Google_Maps_Platform-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase_Cloud_Messaging-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
+<br/>
+
 ---
 
 ## 🎯 Vision
 
+<br/>
+
 <div align="center">
 
-> *To become **Sri Lanka's leading GPS tracking and fleet management technology provider** by delivering secure, scalable, and innovative vehicle monitoring solutions.*
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   To become Sri Lanka's leading GPS tracking and fleet           ║
+║   management technology provider by delivering secure,           ║
+║   scalable, and innovative vehicle monitoring solutions.         ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
+
+<br/>
 
 ---
 
 ## 👤 Founder & Owner
 
+<br/>
+
 <div align="center">
 
-| | |
-|:---:|:---|
-| 🧑‍💼 | **Nuwan Aloka** |
-| 🏢 | Founder & Owner, ShaloTrack Lanka (Pvt) Ltd |
+![Founder](https://img.shields.io/badge/👑%20%20Nuwan%20Aloka-Founder%20%26%20Owner-white?style=for-the-badge&labelColor=1a2d5a&color=f47920)
+
+**ShaloTrack Lanka (Pvt) Ltd**
 
 </div>
+
+<br/>
 
 ---
 
 ## 💻 Development Team
 
+<br/>
+
 <div align="center">
 
-| Avatar | Name | Role | Focus Areas |
-|:---:|:---|:---|:---|
-| 🟠 | **Swen Jayathunga** | Software Engineer | Backend Development · System Architecture · Database Design · GPS Infrastructure |
-| 🔵 | **Nethmi Wijekoon** | Software Engineer | Frontend Development · UI/UX Design · Quality Assurance |
-| 🟠 | **Nuwan Akalanka** | Software Engineer | Backend Development · Database Engineering · System Analysis |
-| 🔵 | **Amoda Rashmika** | Software Engineer | DevOps · Cloud Infrastructure · Security Engineering |
+![Swen](https://img.shields.io/badge/🟠%20Swen%20Jayathunga-Backend%20%7C%20Architecture%20%7C%20GPS%20Infra-white?style=for-the-badge&labelColor=1a2d5a)
+
+![Nethmi](https://img.shields.io/badge/🔵%20Nethmi%20Wijekoon-Frontend%20%7C%20UI%2FUX%20%7C%20QA-white?style=for-the-badge&labelColor=2d4a8a)
+
+![Nuwan A](https://img.shields.io/badge/🟠%20Nuwan%20Akalanka-Backend%20%7C%20Database%20%7C%20Analysis-white?style=for-the-badge&labelColor=1a2d5a)
+
+![Amoda](https://img.shields.io/badge/🔵%20Amoda%20Rashmika-DevOps%20%7C%20Cloud%20%7C%20Security-white?style=for-the-badge&labelColor=2d4a8a)
 
 </div>
+
+<br/>
 
 ---
 
 ## 📍 Headquarters
+
+<br/>
 
 <div align="center">
 
@@ -177,8 +216,8 @@ ShaloTrack is a Sri Lankan GPS tracking and vehicle security platform providing 
 ![Vehicle Security](https://img.shields.io/badge/Vehicle%20Security-1a2d5a?style=for-the-badge&labelColor=f47920)
 ![Fleet Management](https://img.shields.io/badge/Fleet%20Management-1a2d5a?style=for-the-badge&labelColor=f47920)
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f47920,50:2d4a8a,100:1a2d5a&height=100&section=footer&text=Tracking+Beyond+Location.+Building+Smarter+Mobility.&fontSize=14&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f47920,50:2d4a8a,100:1a2d5a&height=120&section=footer&text=Tracking+Beyond+Location.+Building+Smarter+Mobility.&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
